@@ -51,11 +51,6 @@ The program will:
 
 For playlists, the program will create a subfolder with the playlist name and download multiple videos simultaneously.
 
-## Performance Tips
-
-- For large playlists, adjust the number of simultaneous downloads based on your internet connection
-- 3-5 concurrent downloads works well for most home internet connections
-- Using too many concurrent downloads might trigger YouTube rate limiting
 
 ## Requirements
 
